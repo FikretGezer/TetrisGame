@@ -1,5 +1,9 @@
 *.cs linguist-detectable=true
 *.asax linguist-detectable=false
+*.ashx linguist-detectable=false
+*.asmx linguist-detectable=false
+*.aspx linguist-detectable=false
+*.axd linguist-detectable=false
 *.shader linguist-detectable=false
 *.hlsl linguist-detectable=false
 *.cginc linguist-detectable=false
