@@ -15,6 +15,7 @@ public class SoundController : MonoBehaviour
     private void PlayRandomMusic()
     {
         var clip = clips[Random.Range(0, clips.Count)];
-        musicSource.PlayOneShot(clip);
+        musicSource.clip = clip;
+        musicSource.Play();
     }
 }
