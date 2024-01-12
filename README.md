@@ -4,9 +4,8 @@
  
 </div>
 <div align="center">
- <img src="https://github.com/FikretGezer/TetrisGame/assets/64322071/f8efe8d8-8fbf-4778-ac9d-896dc507ecb9" width="480" height="360">
- <img src="https://github.com/FikretGezer/TetrisGame/assets/64322071/32cf2e2e-1eec-4833-8165-417dad44ea68" width="480" height="360">
- <img src="https://github.com/FikretGezer/TetrisGame/assets/64322071/7278c4bc-fd3b-406b-8652-7ae23e2d4c7b" width="480" height="360"> 
+ <img src="https://github.com/FikretGezer/TetrisGame/assets/64322071/32cf2e2e-1eec-4833-8165-417dad44ea68" width="600" height="360">
+ <img src="https://github.com/FikretGezer/TetrisGame/assets/64322071/7278c4bc-fd3b-406b-8652-7ae23e2d4c7b" width="600" height="360"> 
 </div>
 
 ## What is this game about?
